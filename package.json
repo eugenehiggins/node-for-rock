@@ -12,7 +12,7 @@
     "express": "~4.13.1",
     "jade": "~1.11.0",
     "kerberos": "0.0.19",
-    "mongodb": "~2.0",
+    "mongodb": "~3.6",
     "monkii": "^1.1.5",
     "morgan": "~1.6.1",
     "node-sass-middleware": "0.8.0",
